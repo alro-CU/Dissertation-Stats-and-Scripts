@@ -1,0 +1,40 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+316413,14.0,63.0,22.0,"The defendant sold his boat for $43,000 3 weeks before the zoning meeting.
+The defendant had previously gotten in trouble for not paying his taxes.
+DNA not belonging to the defendant was found under the flap of the envelope.
+A woman identified the defendant as someone who had slipped one of the people in change an envelope before the meeting.",Not Guilty,0,0
+316413,30.0,85.0,9.0,"Mr. Juval was convicted 5 years earlier for threatening construction workers.
+Selfies on Mr. Juval's phone show that he was at a wine bar when the SUV drove through the walkway.
+Someone who was knocked over by the driver said it could have been Mr. Juval, but it also could have been someone else.
+An expert testified that a palm print left on the driver's side door matched Mr. Juval's.",Not Guilty,0,0
+316413,24.0,68.0,32.0,"Ms. Franklin's computer had meticulous notes for the legitimate company but none for the fake one.
+Ms. Franklin's boss testified that she seems like an honest and good person.
+An insurance agent in the same building said that she saw many people at the fake company but never Ms. Franklin.
+One of Ms. Franklin's fingerprints was found on a bank statement for the fake company.",Not Guilty,0,0
+316413,28.0,78.0,49.0,"Mr. Farooqi's former employer said that, in his opinion, Mr. Farooqi is not a law-abiding person.
+An eyewitness said the she saw someone carrying a can of gas around the building that burned down, who she later identified as Mr. Farooqi.
+A receipt for the kind of gas found at the scene was found in Mr. Farooqi's apartment.
+None of Mr. Farooqi's fingerprints were found at the scene.",Not Guilty,0,0
+316413,2.0,64.0,28.0,"Fingerprints smudged off on a pair of scissors left in the dressing room to cut off anti-theft tags cannot incriminate or exclude Mrs. Armstrong.
+Security footags shows Mrs. Armstrong going into the dressing room with the dress, then leaving and putting it back on the rack.
+Mrs. Armstrong's Minister testified that she is an honorable person with a good reputation amongst her fellow parishioners.
+An employee claimed to have heard the sound of scissors cutting off anti-theft tags from within the dressing room, and she identified the person who emerged as Mrs. Armstrong. ",Not Guilty,0,0
+316413,6.0,84.0,70.0,"A receipt was found in the defendant's apartment for around the same time as the alleged theft for peanut butter, chocolate milk, and raisin bread.
+A cashier testified that the defendant was not the one who purchased peanut butter, chocolate milk, and raisin bread.
+Torn packaging was found in the dressing room with the defendant's finger prints on it.
+The defendant's former employer said that the defendant was prone to theft.",Guilty,0,1
+316413,18.0,61.0,66.0,"A soda can with Mr. Johnson's DNA was found left at a rest stop by a state trooper following a car carrying immigrants who had crossed the border.
+Mr. Johnson had been previously convicted for selling false identification documents.
+None of Mr. Johnson's texts, emails, or phone calls showed that they had gone out to Mexico.",Guilty,0,1
+316413,20.0,68.0,14.0,"A store customer who was next in line testified that when she was watching Ms. Clarke help the person in front of her, she wasn't sure that all of the items had been rung up.
+Security footage shows no convincing evidence that Ms. Clarke bagged any items without hitting a few buttons on the register first.
+Ms. Clarke's priest testified that she has an excellent reputation for honesty in the community.
+Several fingerprints were found on the freebagged"" items none of which were Ms. Clarke's.""",Not Guilty,0,0
+316413,19.0,77.0,12.0,"Someone at the party had seen someone pointing a gun through an open window at the house across the street from Mr. Anderson's house.
+Mr. Anderson has a reputation for nonviolence.
+A 911 operator's call recorder Mr. Anderson saying, If you don't do something about this party I will.
+Shell casings do not match the only bullets test-fired from Mr. Anderson's only gun.""",Not Guilty,0,0
+316413,22.0,62.0,80.0,"Ms. Garcia's DNA was found in a bathroom right next to the emergency exit doors.
+Someone in the hospital testified that they saw Ms. Garcia visiting a patient on another floor of the hospital when they were alerted that a baby had been taken.
+A leader in the community testified that Ms. Garcia is a very honest person.
+A security expert testified that the hospital footage showed Ms. Garcia leaving the hospital with a baby in her arms.",Guilty,0,1

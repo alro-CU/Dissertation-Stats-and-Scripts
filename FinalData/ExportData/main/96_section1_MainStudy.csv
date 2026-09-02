@@ -1,0 +1,17 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+96,19.0,88.0,90.0,Disruption at a party with a threat to do something about it. Someone seen with a gun outside the window. Markings on the bullets,Guilty,0,1
+96,2.0,61.0,60.0,Ms Armstrong was seen taking the dress into the fitting room. Theres video footage of her hanging the dress back up before leaving. A worker heard sicsors being used in the dressing room. She is known for things like this,Not Guilty,0,0
+96,24.0,50.0,29.0,"many people were seen in the fake company office but never ms franklin. franklins fingerprints were found on a collection letter for the company. franlins employer vouches for her trustworthiness. nothing on franlins computer has anything from the fake company
+",Not Guilty,0,0
+96,28.0,83.0,98.0,"Former employer claims he is not law abbiding. A recipt for the gas used in the fire was found in his home. Someone saw him carrying gas outside the building before the fire
+",Guilty,0,1
+96,18.0,80.0,90.0,Witness saw him hand an envlope to the driver of a 16 passanger van. He has been charged before for false identification. DNA found on soda can that came from a van carrying illegal immigrants. ,Guilty,0,1
+96,20.0,52.0,30.0,"No evidence of her doing that on security camera. None of her finger prints on the recovered items. A customer said she saw her free bagging. A character witness says she is an upstanding person
+",Not Guilty,0,0
+96,30.0,66.0,50.0,"A tourist who was hit isn't able to verify his identity. He has selfies on his phone showing that he was 2 miles away when the incident occured. His palm print is on the driver door. He has previously been convicted of a crime
+",Not Guilty,0,0
+96,22.0,60.0,61.0,"Her Dna was found in a bathroom in the hospital. There is video footage of her leaving the hospital with a baby. She was on a different floor visiting someone when the alert for the kid went off. She had someone vouch for her that she is a good person.
+",Guilty,0,1
+96,14.0,79.0,76.0,"He sold his boat 3 weeks prior for 43,000. He was convicted previoudly. He was seen handing an envelop to someone before the bid. ",Guilty,0,1
+96,6.0,74.0,87.0,"a recipt was found in her appartment that showed that she bought the things they saw her buy at the time of the theft. Former employer says she seems like shes prone to theft. Cashier saisd she wasn't the one who even purchased the items. Fingerprints of hers found on the torn packaging
+",Guilty,0,1

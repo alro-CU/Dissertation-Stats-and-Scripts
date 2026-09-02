@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+833610,2.0,74.0,25.0,It feels like the case lacks crucial damning evidence for a guilty but it would make sense if such a case were to happen in real life.,Not Guilty,1,0
+833610,24.0,66.0,39.0,"this is a tough one, its hard again to make a sound verdict. It seems that even if she is guilty, there is only very light evidence, far from enough to condemn her",Not Guilty,1,0
+833610,6.0,88.0,52.0,"Luckily for this case, there is some physical evidence. However, it's still not enough",Not Guilty,1,0
+833610,14.0,95.0,82.0,"the only counter against this trail, the dna found present in the envelope, does not feel strong enough to counter the mounting evidence",Guilty,1,1
+833610,20.0,72.0,15.0,"the Evidence feels like too little to be condemning, as one of the pieces of evidence is a witness(worst for court cases)",Not Guilty,1,0
+833610,19.0,96.0,8.0,"still no real solid proof here, actually more proof for the ladder",Not Guilty,1,0
+833610,22.0,69.0,69.0,"yikes, this one is very split, with evidence on both sides. however it feels like the cases supporting her are less valid than hard-core video evidence",Guilty,1,1
+833610,18.0,100.0,93.0,"The physical evidence is semi lacking but the dna found is very important, id convict this guy",Guilty,1,1
+833610,28.0,86.0,10.0,"without the exact physical evidence, theres no way to say for sure. therefore, we should probably assume not guilty",Not Guilty,1,0
+833610,30.0,87.0,72.0,"the DNA evidence isa very important and very damning, especailly when assosiated with the murder weapon",Guilty,1,1

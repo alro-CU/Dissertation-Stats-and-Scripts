@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+217854,22.0,46.0,51.0,  A case,Not Guilty,1,0
+217854,24.0,62.0,49.0,I imagined a crime show where it first seems like Ms. Franklin is guilty because of the fingerprint and the money involved but then other evidence makes it unclear.Her employer says shes honest theres no record of the fake company on her computer and no one actually saw her at the office so it feels like she might not be fully involved.,Not Guilty,1,0
+217854,6.0,100.0,58.0,"I imagined a crime scence where it looks like she stole the items because her fingerprints were on the packaging and the receipt matches the time, but the cashier saying it wasnt her makes it confusing and not fully clear.",Not Guilty,1,0
+217854,28.0,100.0,48.0,"I imagined a case where it looks like he could be guilty because of the reciept and eyewhitness, but lack of matching fingerprints makes it uncertain.",Not Guilty,1,0
+217854,20.0,99.0,31.0,"A situation where it seems suspicious she could've done it, but theres no clear proof since there are no fingerprints and the cameras dont show anything obvious.",Not Guilty,1,0
+217854,19.0,100.0,29.0,"A case where it seem suspicious because of the 911 call, but the bullet evidence not matching his gun and someone being seen at a different house makes it unclear.",Not Guilty,1,0
+217854,14.0,100.0,79.0,A case where it seems pretty strong he did it becuase of the eyewitness and money connection even though the DNA doesnt match.,Guilty,1,1
+217854,30.0,100.0,48.0,A case where the palm print makes it seem like he was involved but the alibi and unclear witness make it uncertain.,Not Guilty,1,0
+217854,2.0,99.0,33.0,I imagined a case  where it seems suspicious becuase she was in the fitting room and heard with scissors but the video doesnt show her stealing anything.,Not Guilty,1,0
+217854,18.0,100.0,68.0,A case where it seems like he could be involved becuase of the DNA and witness but theres not clear connection proving he organized everything.,Not Guilty,1,0

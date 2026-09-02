@@ -1,0 +1,41 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+909949,22.0,100.0,44.0,"Ms. Garcia was spotted leaving a different patients room when an alarm sounded notifying the hospital of a stolen baby
+There is security camera footage of ms. garcia leavcing the hospital with a baby in her hand.
+Someone testified that Ms. Garcia is known to be a very truthful person.
+DNA was found that matched Ms. Garcia in a bathroom in the hopsital.",Not Guilty,0,0
+909949,19.0,64.0,33.0,"A neighbor  testified that Mr. Anderson has a history of non-violence.
+A 911 operator has record of Mr. Andersom saying, if you dont do anything about this party I will.""
+A girl from the party reported seeing a figure in an open window with a gun in a house across from Mr. Anderson's.
+The bullet casings found did not match the casings test-fired out of Mr. Anderson's only gun.""",Not Guilty,0,0
+909949,28.0,87.0,78.0,"An expert found no fingerprints at the scene that matched Mr. F
+A reciept was found at his house for a 5 gallon gas can that matched one found in the fire debris.
+An eyewitness who later identified the subject as Mr. F reported seeing a figure holding a gas can outside of the house before the fire.
+Mr. F's employer said that in his opinion, Mr. F was not a law abiding person.",Guilty,0,1
+909949,24.0,73.0,32.0,"Her computer was searched and records for two legitimate businesses as well as her gudget and tax records were found, however nothing about the fake business was found.
+Her fingerprints were found on a collections notice for the fake company. 
+An agent in the same building as the fake company saw many people in the fake companies oiffices, but never her.
+Her employer said that in his opnion she was a truthful person.",Not Guilty,0,0
+909949,30.0,73.0,48.0,"Mr. L had been convicted for threatening his neighbors 5 years prior.
+An expert identified a palm print on the drivers side door as Mr. L's.
+a tourist who was knocked over by the fleeing driver said that it could have been Mr. L or it could not have been.
+Selfies from Mr. L's phone show that he was at a wine bar 2 miles away when the driver drove onto the walkway.",Guilty,0,1
+909949,2.0,86.0,49.0,"Mrs. A's minister says that Mrs. A has a strong reputation for truthfulness among her fellow perishoniers.
+surveillance video shows Mrs. A enter the changing room with the dress, then later leaving and hanging the dress back up.
+Someone said they heard the sound of scissors coming from a changing room, and Mrs. A was ikdentified as the women in the changing room.
+An investigator said that smudged fingerprints found on the scissors could be hers or could not be hers.",Guilty,0,1
+909949,20.0,98.0,29.0,"A priest said that she has a reputation of honesty amongst her church community.
+Suveillance video shows no obvious signs that she bagged any items without touching a key on the pad first.
+Of the many fingerprints recovered on the recovered items, none were hers
+a customer said that they remember her bagging items for a previous customer and remembers that not all items may have been scanned.",Not Guilty,0,0
+909949,18.0,86.0,77.0,"A women reported Mr. J as the man who handed an envelope to a man driving a van full with 16 passengers.
+Mr. J has been convicted of felony forgery for creating fake identification documents.
+Mr. J's phone and computer showed no voice calls, texts, or emails to mexico.
+Mr. J's dna was found in a soda can that was dropped from a van filled with immigrants at a rest stop which drove off when a state trooper pulled up.",Guilty,0,1
+909949,14.0,94.0,46.0,"bank records and a deed of sale show that Mr J sold his 34 foot sailboat for 43000 dollars 3 weeks before the zoning vote
+the zoning clerk said she saw someone who she later identified as Mr J hand the same type of enveleope as the bribe envelope to the zoning official.
+Mr J has previosuly been convicted of failing to do his taxes.
+The Dna under the sealed flap matches someone other than Mr J.",Guilty,0,1
+909949,6.0,82.0,78.0,"Fingerprints found on the ripped tags that were found in the changing room matched those of Mrs. M.
+A cahsier testified that Mrs. M was not the women who bought the peanut butter, chocolate milk, and raisin bread.
+A target reciept that matched the time of theft and that was for peanut butter, choclate milk and rasin bread was found in Mrs. M's appartment.
+A previous employer said that Mrs. M was prone to theft.",Guilty,0,1

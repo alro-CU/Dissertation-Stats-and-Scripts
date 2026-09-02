@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+385172,28.0,72.0,30.0,"i think there are more people invovled than we think, Mr. farqoori might not be the only one or maybe framed",Not Guilty,1,0
+385172,30.0,81.0,88.0,"i think te case against him is strong, and if dna and prints match his its a pretty clear case",Guilty,1,1
+385172,20.0,39.0,15.0,i think she can not be proven guilty without proper evidence,Not Guilty,1,0
+385172,14.0,54.0,47.0,"i think he is very suspecious, and potentially avoiding law by briding",Guilty,1,1
+385172,22.0,79.0,74.0,i think the evidence against her is strong and i would beleieve that she is guilty,Guilty,1,1
+385172,24.0,50.0,51.0,"this is believable, she potentially could be guilty",Guilty,1,1
+385172,19.0,62.0,41.0,i think mr. andersin might not be the only one invovled,Not Guilty,1,0
+385172,2.0,62.0,70.0,i think she is suspecious and i would believe this case,Guilty,1,1
+385172,6.0,70.0,73.0,i would beleieve this case to be guilty,Guilty,1,1
+385172,18.0,69.0,75.0,this case would happen in the realm world,Guilty,1,1

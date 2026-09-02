@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+30,18.0,95.0,79.0,"the dna matched darnells, they found people with darnell",Guilty,0,1
+30,14.0,59.0,62.0,"Mr. Jackson misssed paying his taxes already once covicted, money was estimated around 34,000. Mr Jacksons dna did Not match the checks",Guilty,0,1
+30,2.0,29.0,33.0,"The lady had been on camera seen smuggling things after maybe cutting off the anti theft tags. The DNA did NOT track, her minister testified she is a very honest women. the cashier allegedy saw acitvity involving stealing from her.",Not Guilty,0,0
+30,19.0,89.0,93.0,"mr anderson was calling the cops on a 911 call stating he would do something, bullets found do not match mr andersons, the neighbor supposedly saw him, mr anderson DNA did not match.",Guilty,0,1
+30,24.0,37.0,87.0,"The women had supposedly been stealing money from IRS, checks matched DNA, a boss tesitfied that she is honest, and finally the insurance company never saw her",Guilty,0,1
+30,6.0,90.0,85.0,"she was caught stealing, her receipt was time stamped and the chaning room had DNA of ripped packages that belonged to her. She was also to be noticed as the thief before as well.",Guilty,0,1
+30,28.0,19.0,54.0,"he was being convicted of a crime of arson and murder. He had NO dna on scene, however did have suspicious purchases",Not Guilty,0,0
+30,20.0,10.0,14.0,She is being trialed on the crime of freebagging. A witness said they saw her put things in the bags before rang up. Priest said shes an honest women no DNA was found that matched hers,Not Guilty,0,0
+30,30.0,50.0,73.0,"Mr. Duval was trialed for renting an SUV and driving it into pedrestians. Photos of him atr wine bar before are seen, someone said they saw someone else in the car, palm print matched mr duvals, he was convicted already for threating people",Guilty,0,1
+30,22.0,45.0,95.0,"She was convicted of kidnapping. She had stolen a baby from hospital, nurses saw her, dna matched",Guilty,0,1

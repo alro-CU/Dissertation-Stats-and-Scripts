@@ -1,0 +1,41 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+106,2.0,100.0,18.0,"They found smudged fingerprints on the scissors besides the anti-theft tags that couldn't be used to identify or not identify Ms. Armstrong.
+ The store assistant claims she heard scissors being used inside of the dressing room, and identified Ms. Armstrong as the woman who left that dressing room.
+The store has camera footage of Ms. Armstrong exiting the dressing room and returning the dress to a rack.
+Ms. Armstrong has a strong reputation.",Not Guilty,0,0
+106,22.0,90.0,50.0,"A digital evidence expert testified that they saw Ms. Garcia leaving the hospital with a baby in her arms on the camera footage.
+A nurse testified that they saw Ms. Garcia on a different floor with a patient at the time the alarm went off to notify a baby was missing.
+Evidence from a bathroom near an emergency exit matched Ms. Garcia's DNA.
+A prominent leader in the community testified that he believes Ms. Garcia is a trustworthy person.",Not Guilty,0,0
+106,19.0,89.0,11.0,"The bullets recovered from the neighbor's yard do not match the bullets test-fired from Mr. Anderson's only gun.
+In a recorded 911 call from Mr. Anderson's house, someone can be heard saying if you don't do something about the party  I will.""
+A person from the neighborhood has testified that Mr. Anderson has a non-violent history.
+A woman from the party recalled seeing someone from an open window across from Mr. Anderson's house with a gun.""",Not Guilty,0,0
+106,24.0,96.0,47.0,"They went through Ms. Franklin's business records for her two legitimate businesses, as well as her personal documents and tax records, and found nothing related to the fake company.
+An employee for Ms. Franklin has testified that she's a trustworthy person.
+An insurance agent who works in the same building as the fake company testified that they saw people in the fake company's office, but never Ms. Franklin.
+They found a fingerprint that matches Ms. Franklin's on one of the fake company's documents.",Not Guilty,0,0
+106,30.0,96.0,48.0,"They found selfies on Mr. Juval's phone of him drinking wine at a bar two miles away from the crash site.
+A victim who was knocked over by the fleeing vehicle testified that it could have been Mr. Juval, but could've been someone else.
+An expert testified that a palm print found on the driver's side door matches Mr. Juval's.
+Mr. Juval was previously convicted 5 years ago of assault on construction workers.",Guilty,0,1
+106,6.0,94.0,80.0,"Torn packaging was found in the fitting room with prints that matched the defendants.
+The defendant's employees have testified that in their opinion, she was prone to theft.
+The cashier working at the time of the theft claims the defendant was not the woman who purchased the chocolate milk, peanut butter, and raisin bread.
+Investigators recovered a time-stamped reciept from Target with chocolate milk, peanut butter, and raisin bread in the defendant's apartment.",Guilty,0,1
+106,28.0,97.0,72.0,"A reciept for a five-gallon gas can was found in Mr. Farqooih's residence, the same gas can that was left in the fire.
+Mr. Farqooih's ex-employer testified that Mr. Farqooih was not a law-abiding person.
+An investigator testified that no fingerprints at the scene matched Mr. Farqooih's.
+An eyewitness saw someone later identified as Mr. Farqooih near the building with a gas can.",Guilty,0,1
+106,18.0,100.0,92.0,"Mr. Johnson was previously convicted of forgery of false documents.
+An expert was able to match DNA evidence from a soda can dropped off from the driver of a van that pulled off as soon as a state trooper pulled in.
+An eyewitness claims that Mr. Johnson is the same man who handed an envelope to the driver of a 16-passenger van at a rest stop.
+No phone calls, emails, or text messages were able to be tracked from Mr. Johnson's phone/computer to Mexico.",Guilty,0,1
+106,14.0,100.0,99.0,"A zoning board clerk claims that they saw a person later identified as Mr. Jackson hand an envelope (the same kind as the bribe envelope) to the voting officials prior to voting.
+DNA from the sealed flap of the bribe envelope cannot be matched to Mr. Jackson.
+Mr. Jackson was previously convicted for failing to pay his taxes.
+From bank records and a deed of sale, Mr. Jackson sold his 34-foot boat for $43,000 three weeks prior to the voting.",Guilty,0,1
+106,20.0,95.0,10.0,"A guest at the store claims that while checking out the guest before her, Ms. Clarke did not ring up all of the items she bagged.
+Out of all the stolen items recovered, none of the fingerprints could be matched to Ms. Clarke.
+Ms. Clarke's priest says that she has a reputation for honesty within the church community.
+Security camera footage doesn't show Ms. Clarke obviously bagging items without hitting buttons on the register first.",Not Guilty,0,0

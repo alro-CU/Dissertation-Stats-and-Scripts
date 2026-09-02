@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+150,22.0,73.0,93.0,"Cameras saw her leaving with a baby in her arms, Her DNA matched the one they found",Guilty,0,1
+150,30.0,41.0,24.0,"He was at a bar that was 2 miles away from where the crash happened, One of the victams that got hit said it was maybe him but theyre not too sure, He had already gone to jail because of a threat to road workers",Not Guilty,0,0
+150,20.0,11.0,1.0,"Her preist says that she would never, the security camera didnt catch her, Her fingerprints dont match, a customer says she thinks that she didnt ring everything up",Not Guilty,0,0
+150,28.0,39.0,48.0,"His cower said he always followed the law, A reciept showing that he bought the same item as the one used in the scene, his fingerprints didnt show that he was the one, someone stating that he had the same gas while walking",Not Guilty,0,0
+150,19.0,65.0,64.0,"Women at party said she saw someone with a gun at the window, his neighboor said he was non-violence, 911 call said if they dont do anything about it he was, bullet wasnt the same from the only gun he has.",Guilty,0,1
+150,18.0,74.0,77.0,"He already went to jail before. A girl stated that she was a victim, a soda can had his fingerprints, his phone didnt say anything about going to mexico",Guilty,0,1
+150,2.0,73.0,73.0,"Her minister said shes honest, security cameras see her leaving, scissors have her smudged fingerprints , worker heard cutting noises and saw her come out ",Guilty,0,1
+150,6.0,66.0,74.0,"her fingerprints were found on the tags in the fitting room, her reciept at home had all the things she was there for, coworker said she was prone to theft, worker said she wasnt the one to buy the stuff that were on the reciept",Guilty,0,1
+150,24.0,40.0,39.0,"Someone said she was always truthfull, her fingerprints were found, records didnt show anything about the fake company, agent said he always saw a lot of people working at the fake comapny but never seen her",Not Guilty,0,0
+150,14.0,69.0,64.0,"he sold his boat a little before the vote, already went to jail, fingerprints that didnt match his, cameras showing him",Guilty,0,1

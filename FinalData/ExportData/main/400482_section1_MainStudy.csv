@@ -1,0 +1,14 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+400482,14.0,77.0,17.0,"the defendant giving an envolope to another person, the defendant selling his sailboat, the inside of an envolope,",Not Guilty,1,0
+400482,2.0,28.0,0.0,defendant trying on the dress and then hanginf it on a rack when leaving ,Not Guilty,1,0
+400482,20.0,50.0,32.0,"a department store checkout line, where the defendant is ringing up items and making selections on the computer",Not Guilty,1,0
+400482,18.0,88.0,84.0,"the defendant in a white van at a rest stop dropping a soda can out his window into a trash can
+",Guilty,1,1
+400482,30.0,75.0,13.0,"the defendant at a wine bar, an suv swerving to hit pedestrians",Not Guilty,1,0
+400482,28.0,26.0,28.0,"the defendant walking with a can of gas, a burning building. I imagine that even if the defendant burned the building, he would not have known there was a homeless man inside, no premeditation of 1st deg murder",Not Guilty,1,0
+400482,6.0,73.0,39.0,"torn open packaging on the floor, a person checking out with the items on the recepit at a cashier",Not Guilty,1,0
+400482,19.0,66.0,11.0,"a beer bottle exploding, a dark window, a group of officers test firing the defendent's gun
+",Not Guilty,1,0
+400482,24.0,64.0,21.0,"an office building, a computer, a desk, a note, spreadsheet files",Not Guilty,1,0
+400482,22.0,97.0,84.0,"an alarm going off, nurses runing to the maternity ward, the defendant leaving with a baby
+",Guilty,1,1

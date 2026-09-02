@@ -1,0 +1,573 @@
+---
+title: "exp_1_NEW_coh"
+author: "Alex Rogers"
+date: "2026-06-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r setup, include=FALSE}
+### ONLY RUN IF NEED TO COMPILE DATA
+# # Loading in packages and dependencies
+# library(tidyverse)
+# library(lme4)
+# library(lmerTest)
+# library(GoodmanKruskal)
+# library(sjPlot)
+# library(ggpubr)
+# 
+# # setting file path
+# folder_path <- "/Users/rogershome/Downloads/juror_data_full"
+# 
+# # grabbing list of CSV files recursively
+# csv_files <- list.files(path = folder_path, 
+#                         pattern = "Legal_Decision_Making_Study.*\\.csv$", 
+#                         full.names = TRUE,
+#                         recursive = TRUE)
+# 
+# # COUNT ALL FILES
+# print(paste("Found", length(csv_files), "CSV files"))
+# 
+# # Read and combine, adding the filename as a column
+# combined_data <- csv_files %>%
+#   set_names() %>%
+#   map_df(read_csv, .id = "source_file") %>%
+#   mutate(
+#     # Extract just the filename (not the full path)
+#     filename = basename(source_file),
+#     # Extract the date/timestamp from the filename
+#     file_timestamp = str_extract(filename, "\\d{4}-\\d{2}-\\d{2}_\\d{2}h\\d{2}\\.\\d{2}\\.\\d{3}")
+#   )
+# 
+# # Now create a unique identifier combining participant ID and timestamp
+# combined_data <- combined_data %>%
+#   mutate(
+#     participant_unique = paste(participant, file_timestamp, sep = "_")
+#   )
+# 
+# # Check for the duplicate participant
+# combined_data %>%
+#   filter(participant == "9320") %>%
+#   select(participant, participant_unique, filename, file_timestamp) %>%
+#   distinct()
+# 
+# # Write the combined data to a csv file
+# write_csv(combined_data, "/Users/rogershome/Downloads/combined_jury_data.csv")
+```
+
+## Coherence calculation for Experiment 1 data
+
+
+```{r}
+library(dplyr)
+library(tidyr)
+
+# Read beta table
+betas <- read.csv("/Users/rogershome/Documents/Dissertation_Analyses/forAlex.csv")
+
+# read in in combined data
+combined_data <- read.csv("/Users/rogershome/Documents/Dissertation_Analyses/combined_jury_data.csv")
+
+# Scenario baseline betas
+baseline_lookup <- betas %>%
+  filter(type == "baseline") %>%
+  select(
+    scenario,
+    baseline_beta = mean
+  )
+
+# Keep only evidence rows 
+beta_lookup <- betas %>%
+  filter(type != "baseline") %>%
+  mutate(
+    evidence_value = case_when(
+      valence == "inculpatory" ~ "clear_in",
+      valence == "exculpatory" ~ "clear_ex",
+      valence == "ambiguous" ~ "ambiguous"
+    )
+  ) %>%
+  select(
+    scenario,
+    type,
+    evidence_value,
+    beta = mean
+  )
+
+# Function to pull the correct beta for a single piece of evidence
+get_beta <- function(scenario, evidence_type, evidence_value) {
+
+  if (is.na(evidence_value) || evidence_value == "none") {
+    return(0)
+  }
+
+  match <- beta_lookup %>%
+    filter(
+      scenario == !!scenario,
+      type == !!evidence_type,
+      evidence_value == !!evidence_value
+    )
+
+  if (nrow(match) == 0) {
+    return(0)
+  }
+
+  match$beta[1]
+}
+
+# Add beta weights for each evidence category
+combined_data <- combined_data %>%
+  rowwise() %>%
+  mutate(
+
+    physical_beta =
+      get_beta(rank, "physical", physical),
+
+    document_beta =
+      get_beta(rank, "document", document),
+
+    witness_beta =
+      get_beta(rank, "witness", witness),
+
+    character_beta =
+      get_beta(rank, "character", character)
+
+  ) %>%
+  ungroup()
+
+#join baselines to participant cases
+combined_data <- combined_data %>%
+  left_join(
+    baseline_lookup,
+    by = c("rank" = "scenario")
+  )
+
+# Total evidence support
+combined_data <- combined_data %>%
+  mutate(
+
+    positive_support =
+      pmax(baseline_beta, 0) +
+      pmax(physical_beta, 0) +
+      pmax(document_beta, 0) +
+      pmax(witness_beta, 0) +
+      pmax(character_beta, 0),
+
+    negative_support =
+      abs(pmin(baseline_beta, 0)) +
+      abs(pmin(physical_beta, 0)) +
+      abs(pmin(document_beta, 0)) +
+      abs(pmin(witness_beta, 0)) +
+      abs(pmin(character_beta, 0)),
+
+    coherence =
+      positive_support /
+      (positive_support + negative_support)
+
+  )
+
+
+```
+
+## Calculate the mean coherence of cases across subjects for each combination of case type and condition 
+
+so coherence for: 
+
+ambiguous-recall 
+ambigous- simulation 
+
+credible-recall
+credible-simulation
+
+or i could start very broad and just see what the coherence is for ambiguous cases as a whole on average 
+
+versus coherence of credible cases across conditions???
+
+```{r}
+
+combined_data %>%
+  filter(!is.na(evidenceCategory)) %>%
+  group_by(evidenceCategory) %>%
+  summarise(
+    mean_coherence = mean(coherence, na.rm = TRUE),
+    sd_coherence = sd(coherence, na.rm = TRUE),
+    n = n()
+  )
+```
+
+# coherence for exp2 data 
+
+## TODO: Make case coherence as done in other script so that information is available here
+
+```{r}
+case_coherence %>%
+  group_by(evidenceCategory) %>%
+  summarise(
+    mean_coherence = mean(coherence),
+    sd_coherence = sd(coherence)
+  )
+```
+
+# Range of values for coherence in exp 1 
+```{r}
+combined_data %>%
+  filter(!is.na(evidenceCategory)) %>%
+  group_by(evidenceCategory) %>%
+  summarise(
+    mean_coherence = mean(coherence, na.rm = TRUE),
+    sd_coherence = sd(coherence, na.rm = TRUE),
+    min_coherence = min(coherence, na.rm = TRUE),
+    max_coherence = max(coherence, na.rm = TRUE),
+    range = max(coherence, na.rm = TRUE) -
+            min(coherence, na.rm = TRUE),
+    n = n(),
+    n = n()
+  )
+
+ 
+```
+
+# Plot histograms of the coherence values, separated out by evidence category
+
+```{r}
+
+library(ggplot2)
+ggplot(
+  combined_data %>% filter(!is.na(evidenceCategory)),
+  aes(x = coherence)
+) +
+  geom_histogram(
+    binwidth = .05,
+    fill = "steelblue",
+    color = "black"
+  ) +
+  geom_vline(
+    data = combined_data %>%
+      filter(!is.na(evidenceCategory)) %>%
+      group_by(evidenceCategory) %>%
+      summarise(mean_coherence = mean(coherence, na.rm = TRUE)),
+    aes(xintercept = mean_coherence),
+    linetype = "dashed",
+    linewidth = 1
+  ) +
+  facet_wrap(~ evidenceCategory) +
+  theme_minimal()
+```
+
+
+### TODO: Find the correlation between the normative case strength values and the rated case strength values
+
+NOTE: Normative case strength refers to the case strength of each beta for scenario and evidence added up for a given case that a subject saw. First calculate the normative case strength for each subject. Then find the correlation between them. Can do this with all data points first. Then can average across each subject to see results. 
+
+```{r}
+
+# Calculate normative case strength for each case
+combined_data <- combined_data %>%
+  mutate(
+    normative_strength =
+      baseline_beta +
+      physical_beta +
+      document_beta +
+      witness_beta +
+      character_beta
+  )
+
+# Keep only rows containing an actual case-strength rating
+# this is for cleaning purposes 
+normative_corr_data <- combined_data %>%
+  filter(!is.na(rating.response)) %>%
+  select(
+    participant,
+    participant_unique,
+    condition,
+    evidenceCategory,
+    rank,
+    normative_strength,
+    rating = rating.response
+  )
+
+#Calculate raw correlation
+normative_cor <- cor.test(
+  normative_corr_data$normative_strength,
+  normative_corr_data$rating,
+  method = "pearson"
+)
+
+normative_cor
+
+#Visualization of Correlation
+
+library(ggplot2)
+
+# Pearson correlation
+r_value <- cor.test(
+  normative_corr_data$normative_strength,
+  normative_corr_data$rating,
+  method = "pearson"
+)$estimate
+
+p_value <- cor.test(
+  normative_corr_data$normative_strength,
+  normative_corr_data$rating,
+  method = "pearson"
+)$p.value
+
+ggplot(
+  normative_corr_data,
+  aes(x = normative_strength, y = rating)
+) +
+  geom_jitter(
+    width = 0.08,
+    height = 0,
+    alpha = 0.35,
+    size = 2
+  ) +
+  geom_smooth(
+    method = "lm",
+    se = TRUE
+  ) +
+  annotate(
+    "text",
+    x = Inf,
+    y = Inf,
+    label = sprintf(
+      "Pearson's r = %.2f\np < .001",
+      r_value
+    ),
+    hjust = 1.1,
+    vjust = 1.5,
+    size = 5
+  ) +
+  labs(
+    x = "Normative Case Strength",
+    y = "Subject-Rated Case Strength",
+    title = "Normative Case Strength and Subject-Rated Case Strength"
+  ) +
+  theme_minimal()
+
+```
+
+What happens if we aggregate within subject? So we take the average rated case strength and see how it correlates with the average normative case strength? 
+
+```{r}
+# Calculating average normative strength and rated strength
+subject_means <- normative_corr_data %>%
+  group_by(participant) %>%
+  summarise(
+    mean_normative_strength = mean(normative_strength, na.rm = TRUE),
+    mean_rating = mean(rating, na.rm = TRUE),
+    n_cases = n()
+  )
+
+# Calculating Pearson's R
+subject_cor <- cor.test(
+  subject_means$mean_normative_strength,
+  subject_means$mean_rating,
+  method = "pearson"
+)
+
+subject_cor
+
+# Visualizing Correlation
+ggplot(
+  subject_means,
+  aes(x = mean_normative_strength, y = mean_rating)
+) +
+  geom_point(size = 3) +
+  geom_smooth(
+    method = "lm",
+    se = TRUE
+  ) +
+  labs(
+    x = "Mean Normative Case Strength",
+    y = "Mean Subject-Rated Case Strength",
+    title = "Mean Normative and Rated Case Strength by Subject"
+  ) +
+  theme_minimal()
+```
+
+
+
+
+### TODO: Find the correlation between coherence and rated case strength values
+
+NOTE: We have defined coherence according to Tversky's Support Theory such that Support = S(A) - S(B)/ S(A) + S(B).
+
+```{r}
+
+```
+
+
+# Range of values for coherence in exp 2 
+
+```{r}
+
+case_coherence %>%
+  group_by(evidenceCategory) %>%
+  summarise(
+    mean_coherence = mean(coherence),
+    sd_coherence = sd(coherence),
+    min_coherence = min(coherence, na.rm = TRUE),
+    max_coherence = max(coherence, na.rm = TRUE),
+    range = max(coherence, na.rm = TRUE) -
+            min(coherence, na.rm = TRUE),
+    n = n(),
+    n = n()
+  )
+```
+
+```{r}
+case_coherence
+```
+
+#### Check simulated_cases.csv
+
+```{r}
+simulated_df <- read.csv("simulated_cases.csv")
+
+View(simulated_df)
+```
+
+### Calculate the mean, sd, range of the coherence for each category 
+
+```{r}
+simulated_df %>%
+  group_by(case_type) %>%
+  summarise(
+    mean_coherence = mean(coherence),
+    sd_coherence = sd(coherence),
+    min_coherence = min(coherence, na.rm = TRUE),
+    max_coherence = max(coherence, na.rm = TRUE),
+    range = max(coherence, na.rm = TRUE) -
+            min(coherence, na.rm = TRUE),
+    n = n(),
+    n = n()
+  )
+```
+
+```{r}
+simulated_df %>%
+  group_by(scenario) %>%
+  summarise(
+    mean_coherence = mean(coherence, na.rm = TRUE)
+  ) %>%
+  arrange(scenario)
+```
+
+
+
+```{r}
+ggplot(simulated_df, aes(x = coherence)) +
+  geom_histogram(
+    binwidth = .05,
+    fill = "steelblue",
+    color = "black"
+  ) +
+  facet_wrap(~ case_type) +
+  labs(
+    title = "Distribution of Coherence by Case Type",
+    x = "Coherence",
+    y = "Count"
+  ) +
+  theme_minimal()
+```
+
+
+
+
+
+
+
+
+# Plot histograms for exp 2 coherence values 
+
+```{r}
+
+```
+
+
+# separate out by condition 
+```{r}
+combined_data %>%
+  group_by(condition, evidenceCategory) %>%
+  summarise(
+    mean_coherence = mean(coherence, na.rm = TRUE),
+    sd_coherence = sd(coherence, na.rm = TRUE),
+    n = n()
+  )
+```
+
+
+
+## TODO Calculate normative coherence values instead 
+
+```{r}
+combined_data <- combined_data %>%
+  mutate(
+    normative_strength =
+      baseline_beta +
+      physical_beta +
+      document_beta +
+      witness_beta +
+      character_beta
+  )
+
+
+combined_data %>%
+  filter(!is.na(evidenceCategory)) %>%
+  group_by(evidenceCategory) %>%
+  summarise(
+    mean_normed_s = mean(normative_strength, na.rm = TRUE),
+    sd_normed_s = sd(normative_strength, na.rm = TRUE),
+    n = n()
+  )
+```
+
+# exp 2 coherence (normative)
+
+```{r}
+normed_summary_data <- norm_coh_data %>%
+  mutate(
+    evidenceCategory = case_when(
+      rank %in% c(28, 18, 6) ~ "inculpatory",
+      rank %in% c(24, 19, 20) ~ "exculpatory",
+      rank %in% c(14, 22, 30, 2) ~ "ambiguous"
+    )
+  )
+
+normed_case_coherence <- normed_summary_data %>%
+  distinct(rank, coherence, evidenceCategory)
+
+normed_case_coherence %>%
+  group_by(evidenceCategory) %>%
+  summarise(
+    mean_coherence = mean(coherence),
+    sd_coherence = sd(coherence),
+    n_cases = n()
+  )
+```
+
+
+
+
+
+# Separate out by condition 
+
+```{r}
+combined_data %>%
+  filter(!is.na(evidenceCategory)) %>%
+  group_by(evidenceCategory, condition) %>%
+  summarise(
+    mean_normed_s = mean(normative_strength, na.rm = TRUE),
+    sd_normed_s = sd(normative_strength, na.rm = TRUE),
+    n = n()
+  )
+```
+
+
+
+
+

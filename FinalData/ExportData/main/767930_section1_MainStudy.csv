@@ -1,0 +1,69 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+767930,14.0,100.0,84.0,"DNA found on the envelope sealing matched Mr. Jackson's
+
+Someone named Mr. Jackson recently sold a sailboat for 43 thousand dollars
+Awoman working at the bank recently saw someone who matches Mr Jackson's description or appearance walking with the same envelope that held the DNA evidence ",Guilty,0,1
+767930,6.0,100.0,68.0,"Cashier testified that Mrs. Mitchell was not the woman who bought chocolate milk, eggs, etc. 
+
+Mrs. Mitchell's former employer stated that she seemed like she would be prone to theft
+
+Target reciept found in her home with a time stamp stating she bought the other items
+
+Items found in changing room that had been removed from the clothing items had Mrs. Mitchell's DNA on them",Guilty,0,1
+767930,2.0,88.0,27.0,"DNA found on the scissors left in the dressing room could not be confirmed to either be hers or not be hers
+
+Her minister said that she was known for her truthfulness
+
+Video camera footage showed her hanging the dress back onto the rack after taking it with her into the changing room
+
+Store clerk said she heard scissors cutting in dressing room, and then saw her come out immediately afterwards",Not Guilty,0,0
+767930,18.0,57.0,88.0,"Woman testified that she saw him handing an envelope to the driver of a truck
+
+Soda can dropped in rest stop by a truck of immigrants had his DNA on it
+
+He has been previously convicted of forging immigration papers
+
+Phone and computer show no history of calls, texts, or emails to Mexico",Guilty,0,1
+767930,28.0,74.0,31.0,"No fingerprints found at the scene matched his
+
+He was spotted near the scene of the crime carrying a gas can
+
+People who knew him stated that he did not seem like a law-abiding person
+
+Reciept found in his home for a five-gallon can of gas that matched what was found at the scene",Not Guilty,0,0
+767930,24.0,93.0,19.0,"Person she knew claimed that she was an honest person
+
+Record of two lawful buisnesses she owned were found, but no evidence that connects her to this scam
+
+People said they saw other members of the false company, but never her
+
+Her fingerprints were found on records",Not Guilty,0,0
+767930,20.0,43.0,47.0,"Priest says she has excellent reputation for honesty among the church community
+
+Customer says she thought she didn't see all the items being rung up for the person in line in front of her
+
+No video evidence of her not hitting keys before scanning an item
+
+No fingerprints of hers found on stolen items",Not Guilty,0,0
+767930,19.0,88.0,33.0,"Witness thought they saw gun in a window across the street from his house
+
+Police call records show he said that if they didn't do something about the party he would
+
+Bullets found at crime scene do not match the bullets that could have been fired from his gun
+
+Reputation for non-violence",Not Guilty,0,0
+767930,30.0,81.0,18.0,"Tourist claims that the person in the SUV could have been him, or it could have been someone else
+
+Handprint on the door of the SUV matches his
+
+He was at a wine bar two miles away while the SUV was said to be driving on the sidewalk
+
+Record of threatening construction workers five years prior",Not Guilty,0,0
+767930,22.0,95.0,31.0,"Community leader claims that she is a very truthful person after knowing her for many years
+
+Nurse testified that when the alarm when off warning about the baby being stolen that she was on a different floor of the hospital visting a patient
+
+On cameras, she is seen leaving the hospital with a baby in her arms
+
+Her handprint was found on the emergency room doors
+",Not Guilty,0,0

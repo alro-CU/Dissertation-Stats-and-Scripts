@@ -1,0 +1,12 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+150102,14.0,90.0,41.0,"evidence other tham Mr jackson's was found on the envelope
+, he had been accused of tax fraud before",Not Guilty,0,0
+150102,20.0,66.0,7.0,"her priest says she is an upstanding citizen, one customer stated that they witnessed her not scan items, there is no video camera proof, there is no fingerprint proof",Not Guilty,0,0
+150102,2.0,67.0,1.0,"she hung the dress back on the rack, the employee says she heard sounds of scissors, scissors' fingerprints cannot be identified, she has a good reputation",Not Guilty,0,0
+150102,22.0,31.0,67.0,"she is known as a truthful person, a staff member said she was on a different floor when itt happened, her DNA matches with DNA in the emergency room bathroom, cameras indicate she was holding a baby when she left",Guilty,0,1
+150102,28.0,53.0,100.0,"his fingerprints were not at the scene, eyewitness saw him carrying gas at the building that burnt, employer says he is not law abiding, a receipt was found on his account for the same kind of gas used in the fire",Guilty,0,1
+150102,6.0,86.0,100.0,"ripped off price tags in the dressing room match her fingerprints, a receipt for the groceries was found in her appartment, an employee said it was not her who bought the groceries, her employer says she is prone to theft",Guilty,0,1
+150102,24.0,48.0,41.0,"her computer contained nothing connected to the fake company, she was never seen in the fake company office, her employer think she is honest, her fingerprints were found on a notice for the fake company",Not Guilty,0,0
+150102,18.0,90.0,93.0,"he has been caught selling false identification, he was seen handing an envelope to a 16 passenger van, there is no connection to mexico on his phone, his DNA was found on a soda can that came from a truck containing immigrants",Guilty,0,1
+150102,30.0,33.0,50.0,"selfies on his phone show he was at a wine bar when the incident occured, witnesses say it could have been him in the car but they are not sure, his palm print matches with the driver side of the SUV, he was convicted 5 years ago for threatening contruction workers in his neighborhood",Not Guilty,0,0
+150102,19.0,60.0,2.0,"the bullets that hit the window do not match the ones of his only gun, he called 911 and said if they didn't do something about the party he would, he is considered not violent, a woman at the party says she saw someone across the street from him with a gun in the window",Not Guilty,0,0

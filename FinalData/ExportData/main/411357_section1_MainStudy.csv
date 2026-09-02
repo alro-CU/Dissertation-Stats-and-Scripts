@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+411357,24.0,90.0,85.0,her employer said she was very loyal and not suspicisous/ her fingerprint was found on the files ,Guilty,0,1
+411357,30.0,63.0,99.0,he was seen at a wine bar/ a tourist saw him farther down the road earlier/ he already has charges on him for people in his old work and neighborhood/ his palm matched the fingerprint on the car,Guilty,0,1
+411357,22.0,56.0,69.0,she was seen on security cameras leaving holding a baby/ she was seen on a different floor visiting someone/ her dna is in the bathroom that the baby was/ her team and colleague say that she was a very truthful person,Guilty,0,1
+411357,28.0,43.0,80.0,the type of gas taht was used- there was a recipet for it in his posession/ people say they saw him walking by the building a couple muintes before/ there was no matching fingerprints/ people say he has never been one to follow the law,Guilty,0,1
+411357,6.0,29.0,51.0,there was evidence of items in the changing room/ there wa sa reciept found for those food items in her home/ the cashier said that she didn't match the person who actually bought thsoe items,Not Guilty,0,0
+411357,14.0,40.0,51.0,his dna didn't mtach under the envelope/ someone else saw him hand someone else another envelope/ he didn't pay his taxes/ sold his boat a couple days before,Not Guilty,0,0
+411357,19.0,73.0,70.0,"the bulltets didn't match his gun/ he called the police and said ""if you dont do something i will""/ the neighbors saw him make a phone call",Not Guilty,0,0
+411357,2.0,62.0,54.0,she is very trushworth/ video camera saw her putting the dress back on the rack/ the sales lady heard scirros from the changing room and thought it was her,Not Guilty,0,0
+411357,18.0,79.0,77.0,his dna was found on a soda can at the bus stop/ he was previosuly introuble for giving fake documents/ no calls or texts going in through mexico,Guilty,0,1
+411357,20.0,47.0,42.0,she says she is very tustworthy/ people say she put stuff in the bag for her client and forgot about them ,Not Guilty,0,0
