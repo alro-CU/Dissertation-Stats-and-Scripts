@@ -1,0 +1,12 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+79428,18.0,57.0,28.0,The soda can is not enough to prove his guilt so he would not be held as guilty especially without evidence linking the van to the workers,Not Guilty,1,0
+79428,30.0,73.0,33.0,Since he has a picture of him at a wine bar at the time of the suv swerving onto the sidewalk he has an alibi for where he was that being said should probably be checked that the times match up exactly ,Not Guilty,1,0
+79428,24.0,64.0,63.0,"Since her fingerprint is on the collection notice for the fake company, she has to be connected to it. Just because it isn't on her personal computer doesn't mean she isn't running it from someplace else.",Guilty,1,1
+79428,6.0,66.0,33.0,Check the security cameras- eyewitness testimony is sometimes unreliable,Not Guilty,1,0
+79428,20.0,50.0,1.0,There's no concrete evidence against her,Not Guilty,1,0
+79428,14.0,63.0,87.0,"the dna could have been from someone else in the company, and the other evidence points to his guilt
+",Guilty,1,1
+79428,19.0,54.0,0.0,The bullets do not match and therefore cannot be Mr Anderson's gun also just because he wanted the party shut down isnt enough motive especially when people saw someone across the street from his house,Not Guilty,1,0
+79428,2.0,46.0,6.0,If the video shows her leaving and hanging it on the rack then that is what happened,Not Guilty,1,0
+79428,28.0,63.0,33.0,If no fingerprints were found on the scene  then the only evidence they are relying on is the reciept and eyewitness who could have misidentified him,Guilty,1,1
+79428,22.0,66.0,86.0,Since she was seen on camera leaving the hospital with the baby she must have taken it at some point even if it was after the alarm,Guilty,1,1

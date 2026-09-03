@@ -1,0 +1,42 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+222579,19.0,83.0,79.0,"gun, beer, window, ammo",Guilty,0,1
+222579,28.0,100.0,100.0,"same 5 galloon gas found from his house
+ no finger print matched whit his finger print
+
+Woman saw he was carrieng a gas
+ ",Guilty,0,1
+222579,20.0,60.0,53.0,"no evidence on security camera
+ many fingerprint recovered but none of was Ms Clarke's
+ Pewople saw that he put items in bag
+
+ he has a really good reputation for honesty in church.",Not Guilty,0,0
+222579,14.0,65.0,65.0,"Bank recored that he sold his sailboat 43,000$
+ in 2 weeks
+ Dna from there was matched someone else
+ Someone saw that he was dealing with someone
+ he didnt pay his taxes",Guilty,0,1
+222579,30.0,100.0,100.0,"A person who knoked said its probably him
+ His selfies from his phone shows that he was in wine bar from 2 miles away before drive
+ Palm matches drivers door side
+ he was arrested for 5 years before
+",Guilty,0,1
+222579,2.0,100.0,79.0,"woman who work their said that she heard scissor noise from fitting room
+ She recorded on camera that she went fitting room and hanging back the clothes
+ she has a excelent reputation of truthness from her fellas
+ same fingerprint found from scissors as Mrs Armstrong",Guilty,0,1
+222579,22.0,100.0,100.0,"She was recorded leaving the hospital with baby in her arm
+ Nurse saw that she was visiting a patient in different room
+ Leader of community who works with her for years told she is a truthfull person
+Dna where found from bathroom door matches with her DNA",Guilty,0,1
+222579,24.0,62.0,40.0,"Ms Franklin's fingerprint was found on a collection notice from the fake company
+ Ms. Franklin's employer says in his opinion Ms Franklin is an honest person
+ An insurance agent in the same building as the fake company saw several people in the fake company's office, but never Mr Franklin
+ ",Not Guilty,0,0
+222579,6.0,49.0,48.0,"A cashier testified that Mrs Mitchell is not the woman who bought peanut butter, chocolate milk, and raisin bread.
+ Torn packeging left in the changing room carriers Mrs Mitchell's fingerprint
+ Mrs Mitchell former employer says that in his opinion, she was prone to teff
+ In Mrs Mitchell's apt police found a target reciept, time stamped around the time of the teff, for peanut butter chocolate milk, and raisin bread ",Not Guilty,0,0
+222579,18.0,80.0,80.0,"DNA matches Mr Johnson's was found on a soda can dropped in a rest stop from a van carrying immegrants that dwove off as a state trooper pulled
+ Mr Johnson was convicted of forgery for selling false indentification documents
+ Neither Mr Johnson's cell phone nor computer shows voice calls, texts, or email to Mexico
+ A woman testified that Mr Johnson is the man she saw handing an envelope to the driver of a full 16 passenger van at a highway rest area",Guilty,0,1

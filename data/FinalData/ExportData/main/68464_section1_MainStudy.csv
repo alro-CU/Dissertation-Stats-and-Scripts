@@ -1,0 +1,14 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+68464,14.0,40.0,49.0,,Not Guilty,0,0
+68464,18.0,61.0,78.0,"there was a soda can with mr johnson's DNA found at a rest stop, Mr. Johnson had previously been found guilty of selling fake ID's, he was seen handing an envelope to someone with a bus full of 16 passengers",Guilty,0,1
+68464,30.0,41.0,43.0,"he had selfies at a wine bar while the vent was takeing place, he had issues with construction workers before, a touristr said they might have seen his face but could not tell, ",Not Guilty,0,0
+68464,6.0,85.0,78.0,"there was ripped packaging in the bathroom with her fingerprints, she had a receipt in her apartment that said she had bought milk and some other stuff, a cashier testified it was not her who bought the stuff, and she ",Guilty,0,1
+68464,2.0,43.0,6.0,"minister said she had a truthfull reputation, store klerk said she heard the sound of scissors and saw here come out the dressing room, video tape shows her putting it back on the rack, and the fingerprints on the scissors cannot be hers",Not Guilty,0,0
+68464,19.0,28.0,49.0,"markings on the bullet did not match his gun, he does not have a reputation for violence, told police if they dont do something about it , he will, person at party said she saw someone with a gun at the window across from his house
+",Not Guilty,0,0
+68464,28.0,64.0,67.0,"was seen carrying a gas can before the fire happened, no fingerprints from the building matched his, coworker said he was not a law-abiding citizen, had a receipt for buying gas cans
+",Guilty,0,1
+68464,20.0,51.0,17.0,"customer said it did not look she was ringing up everything, she is known to be an honest person, no fingerprints match hers, no security footage of her doing anything suspicious",Not Guilty,0,0
+68464,22.0,50.0,50.0,"security footage shows her leaving the hospital with a baby, her fingerprints were on a bathroom near the hospital's emergency room, she is known to be a truthful person, a worker said she was seen visiting a patient whiule the alarm went off",Guilty,0,1
+68464,24.0,24.0,35.0,"people were seen going in and out of the fake building but never her, nothing about the company was found on her computer, her boss said that she is an honest person, her fingerprints were found on a notice card
+",Guilty,0,1

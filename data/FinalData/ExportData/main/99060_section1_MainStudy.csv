@@ -1,0 +1,12 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+99060,19.0,92.0,64.0,"someone saw a different shooter, the bullets do not match the suspects gun, the suspect called and made threatening remarks, ",Guilty,0,1
+99060,30.0,78.0,33.0,"His prints match the ones on the car, he has a previous convinction, it could have been someone else, he has an alibi about where he was during the accident. ",Not Guilty,0,0
+99060,18.0,84.0,83.0,"No digital evidence, he has a previous conviction, a women testified against him, DNA match found.",Guilty,0,1
+99060,14.0,100.0,66.0,"Previously convicted, there was a witness, bank records show he was doing something shady, DNA does not match the suspect",Guilty,0,1
+99060,22.0,85.0,100.0,"Someone testified that it was not her, DNA puts her in one of the bathrooms, someone testified that she is a very truthful and honest person, security cameras show her leaving the hospital with a baby.",Guilty,0,1
+99060,24.0,77.0,31.0,"Fingerprints were found, she was never seen in the fake office building, people testified and said she was an honest person, nothing digital is linked to her.
+",Not Guilty,0,0
+99060,6.0,100.0,42.0,"Evidence with her fingerprints on it was found, someone testified saying she is prone to stealing, witness says she didnt buy any food items, recipt in her apartment says she did buy food.",Guilty,0,1
+99060,20.0,100.0,24.0,"Someone says shes a very honest person, there are no fingerprints linked to the suspect, a customer says that not all of the items were rung up, no security camera footage proving she did anything wrong.",Not Guilty,0,0
+99060,28.0,100.0,89.0,"A recipt was found for gas, someone testified saying he was not law-abiding, no fingerprints were found, an eyewitness said they saw him carrying gas near the building.",Guilty,0,1
+99060,2.0,99.0,37.0,"someone said she is a very honest person, there is footage of her putting the dress back, no fingerprints were found, someone testified that they heard cutting from the dressing room and the suspect walked out. ",Not Guilty,0,0

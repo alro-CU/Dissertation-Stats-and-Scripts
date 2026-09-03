@@ -1,0 +1,45 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+332976,24.0,81.0,65.0,"Ms. Franklins fingerprints were found on a paper linked to the fraud
+Her computer showed logs for 2 legimate buisnesses, but none for the mortgage company
+No one ever saw Ms. Franklin in the office
+They say she is an honest person ",Guilty,0,1
+332976,19.0,64.0,71.0,"A neigbor testified that Mr. Andrson has a reputation for non violence 
+Bullets from the scene did not match the bullets from the gun test fired at Mr. Andersons 
+
+A woman saw someone with a gun at an open window at a house across the street from Mr. Andersons house 
+They traced a call back to Mr. Andersons home phone saying, if you dont do something about this party I will"" """,Guilty,0,1
+332976,22.0,67.0,73.0,"A nurse testified seeing ms. garcia visiting another patient on a different floor when the alrm went off to notify that a baby was missing 
+
+A high ranking member of the community described ms. garcia as a overall truthfull person 
+
+A video expert idemtified that ms. garcia was found leaving the hospital with a baby in her arms 
+
+Ms. garcias DNA was found on a bathroom door handle that was near the exit of the hospital ",Guilty,0,1
+332976,2.0,77.0,36.0,"A store clerk heard scissors cutting a tag from a fittign room and identified that the woman who came out was Ms. Armstrong 
+Surveilence shows Ms. armstrong going into the fitting room with the dress then hanging it back up and leaving the store
+DNA found on the scissors left in the fitting room could neither confirm or exclude if it was Ms. armstrongs
+Her minister said that she is described as a very thruthful person by her other parishioners",Not Guilty,0,0
+332976,18.0,90.0,86.0,"Mr. Johson had been previously convicted for selling false identification 
+Mr. Johnsons phone had no calls, texts, or emails to Mexico 
+A soda can was found at one of the rest stops near the border that had his DNA on it
+A woman testified seeing MR. Johnson as the driver of a 16 passanger van near the border",Guilty,0,1
+332976,14.0,69.0,37.0,"Mr. Jackson sold his 34 foot sailboat for $43,000 3 weeks before 
+Mr. Jackson had been previously convicted for failing to pay taxes
+ A zoning clerk testifeid seeing Mr. jackson handing an envelope to someone that looked exactly like the fraudulent one 
+DNA of someone else was found underneath the sealed envelope",Not Guilty,0,0
+332976,6.0,84.0,85.0,"Tags that had been removed and left in the fitting room had Ms. Mitchells DNA 
+Police found a reciept at her apartment that was time stmaped and she had bought eggs, milk, raisin bread 
+Cashier confirmed it was Ms. Mitchell who bought those items 
+Her employer said Ms. Mitchell was prone to theft",Guilty,0,1
+332976,20.0,60.0,27.0,"Security footage cannot shpw her bagging items before hitting buttons on the screen 
+A customer before says she saw Ms Clark bagging items without checking them out first 
+Out of all the recovered items, none of them had Ms. Clarks DNA on them 
+Her preiest said she is well known in the community for being honest",Not Guilty,0,0
+332976,30.0,45.0,49.0,"Fingerprints were found on the car that matched Mr. Juvals DNA 
+He had earlier been convicted for threatening cpnstrustion workers in his neighborhood 
+A victim who was pushed down said it could have been MR. Juval but wasn't sure
+Selfies were found on MR. Juvals phone at the time of the accident at a wine bar 2 miles away.",Guilty,0,1
+332976,28.0,73.0,85.0,"No fingerprints found at the scene match Mr. Farooquis DNA at the scene
+A recipt was found at his place for a 5 gallon gas can, the same one used for the fire
+Someone identified seeing him walking with the gas can shortly before the fire 
+Old emploeyer said Mr. Farooquis was not a law abiding prson",Guilty,0,1

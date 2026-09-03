@@ -1,0 +1,40 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+50784,2.0,79.0,23.0,"Her priest said she's always had a reputation for being truthful among other practitioners.
+An investigator said that fingerprints found on scissors in the dressing room next to cut off security tags could not be said to match ot exclude Ms. Armstrong.
+A women who works in the women's dress claims to have heard cutting in the dressing rooms and Ms.Armstrong come out of that dressing room.
+Security footage from the store shows Ms.Armstrong going in with the dress, then coming out and putting it back on the rack.",Not Guilty,0,0
+50784,6.0,72.0,63.0,"Torn packaging found in the dressing room carries Mrs. Mitchell's fingerprints.
+Her past employer says that in his opinion, she was prone to theft.
+A cashier testified that Mrs. Mitchell did not look like the women that bought peanut butter, chocolate milk, and raisin bread.
+The police found a receipt in Mrs. Mitchell's appartment, timestamped at the time of the crime, showing she bought peanut butter, chocolate milk, and rasin bread.",Guilty,0,1
+50784,28.0,51.0,75.0,"Mr. Farooqui's past employer said that in his opinion, Mr. Farooqui is not a law-abiding citizen.
+A receipt showed that Mr.Farooqui bought a five-gallon gas can of the same type found in the fire's debris.
+A women claims she saw someone she later identified as Mr. Farooqui with a gas can near the building shortly before the fire.
+Investigators said that no fingerprints were found that match Mr. Farooqui.",Guilty,0,1
+50784,14.0,65.0,46.0,"Bank records and a deed of sale show Mr. Jackson sold his 34-foot sailboat three weeks before the zoning vote.
+A women said she saw someone shw later identified as Mr. Jackson give an envelope that was the same type as the bribe envelope to the zoning official before the vote.
+Past records show Mr.Jackson failed to pay his taxes.
+Marks found under the flap of the bribe envelope match someone other than Mr. Jackson.",Not Guilty,0,0
+50784,20.0,70.0,32.0,"A store customer remembers Ms. Clarke bagging items for the person in front of her and suspects not all the items were rung up.
+The stores security footage show no obvious evidence of Ms. Clarke bagging an item without hitting the keypad first.
+Ms. Clarke's priest says she has a reputation of being honest within the church community.
+An expert testified that of the many finger prints found on the stole items, none were Ms. Clarke's.",Not Guilty,0,0
+50784,19.0,76.0,21.0,"A 911 call from Mr. Anderson's phone recorded someone saying to the operator, If you don't do something about the party I will.""
+A women at the party claims she saw someone with a gun by an open window in a house across the street from Mr. Anderson.
+A neighbor said that Mr. Anderson had a reputation for non-violence.
+Marked bullets in the front yard didn't match ones test-fired from Mr. Andeson's only gun.""",Not Guilty,0,0
+50784,22.0,43.0,32.0,"A video evidence expert testified that hosptial security cameras show Mrs. Garcia leaving with a baby in her arms.
+A nurses said she saw Mrs. Garcia visiting a patient on a different floor when the alert for nurses staff was sent about a baby being taken from the maternity floor.
+A DNA sample matched DNA found in the bathroom of the hospital's emergancy room doors.
+A prominant figure in the community claims that after knowing Mrs. Garcia for years, he's depicted her to be very truthful.",Not Guilty,0,0
+50784,30.0,43.0,48.0,"A palm print found on the driver's side door matched Mr. Juval.
+A selfie on Mr. Javal's phone showed he was at a wine bar two miles away when the SUV swerved onto the sidewalk.
+Mr. Juval was convicted five years ago for threatening workers in a construction site.
+A tourist who was knocked over by the fleeing driver said it looked like Mr. Juval, but it could've been someone else.",Not Guilty,0,0
+50784,24.0,62.0,67.0,"An insurance agent in the same building as the fake company said she saw many people in the fake companies office but never Ms. Franklin.
+Ms. Franklin's computer showed meticulous records of two real businesses she owns, and personal budgets and taxs records, but nothing regarding the fake company.
+Mr. Franklin received a collection notice for the fake company.
+Ms. Franklin's employer said that in his opinion she is an honest person.",Guilty,0,1
+50784,18.0,80.0,88.0,"A women claimed she saw him at a rest area giving an evelope to a man with a full 16-seater van.
+DNA matched from a soda can at a rest stop where a van holding immigrants drove off when a state trooper pulled up next to it.
+He was convicted before for selling fake immigration documents.",Guilty,0,1

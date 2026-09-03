@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+300241,22.0,55.0,56.0,I imagined the lady being on a different floor when the alarm went off and her being seen with a baby in her arms leaving the building.,Not Guilty,1,0
+300241,18.0,100.0,49.0,I imagined the man under trial for human traficking and the evidence being presented against him.,Not Guilty,1,0
+300241,20.0,56.0,16.0,I imagined the lady packaging bags and there basically being no solid evidnce that she is doing anything other than her normal job.,Not Guilty,1,0
+300241,14.0,68.0,33.0,I imagined a guy selling his boat and then being accused of bribery. The only real evidence is a someone who said they saw him handing someone an envelope that apparently matches the bribery envleope.,Not Guilty,1,0
+300241,19.0,87.0,84.0,I imagined a guy getting mad about a party and did something about it. He told the police he was going to do something and someone spotted the shooter in his house. Although it says his only gun doesnt match the bullet which doesnt make much sense.,Guilty,1,1
+300241,24.0,70.0,46.0,I imagined a women who had proof of pervious succesful buisnesses with no proof of connection to the fraudulent buisness and being accused of running that fraudulent buisness.,Not Guilty,1,0
+300241,30.0,75.0,50.0,I imagined the accused man getting into his car and commiting the crime later to learn that there is proof he wasnt in the car at the time. Eventhough his handprint is on the truck it makes sense because its his truck.,Not Guilty,1,0
+300241,28.0,70.0,100.0,I imagined all the evidence against the man and then him likely commiting the crime.,Guilty,1,1
+300241,6.0,66.0,85.0,I imagined the lady stealing the clothes and the only proof that shes innocent is a person said she didnt buy specific items although she had the recipt for those specific items.,Guilty,1,1
+300241,2.0,75.0,28.0,I imagined the lady being accused of stealing a dress that was shown being retuned to the rack by the lady.,Not Guilty,1,0

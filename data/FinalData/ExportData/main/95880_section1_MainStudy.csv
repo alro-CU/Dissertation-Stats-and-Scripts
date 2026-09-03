@@ -1,0 +1,51 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+95880,28.0,66.0,50.0,"he was charged with first degree murder 
+1. he had a 5 gallon tank of gas
+2. he was not a law abiding person
+3. there was a eye witness that saw him at the house
+4. he murdered a homeless man",Guilty,0,1
+95880,30.0,82.0,67.0,"1. he was seen by photos at a wine bar 2 blocks away
+2. his palm print matched the one on the car 
+
+3. an eye whitness stated it might have been him
+
+4. he was accused of before",Guilty,0,1
+95880,14.0,63.0,28.0,"1.he was convicted before
+2.he sold his sailboat 
+
+3. he was seen handing an envelope 
+
+4. lady saw him doing so",Not Guilty,0,0
+95880,6.0,89.0,73.0,"1. cashheer said she did not buy peanut butter 
+
+2. former employeer said she was prone to theft 
+
+3. found target recceipt at her house
+
+4. fingerprints matched",Guilty,0,1
+95880,24.0,82.0,20.0,"1. fingerprints were found on fake reccords
+
+2. eye whitness said she owned a real company
+
+3. she was seen as trustworthy
+4. ",Not Guilty,0,0
+95880,2.0,50.0,15.0,"1. fingerprint sumdge on sciccors 
+
+2. worker heard sciccors
+3. she was trustworhthy
+4. she was seen hanging a dress back up",Not Guilty,0,0
+95880,19.0,16.0,20.0,"1.eye whitness
+2. bullets dont match 
+3. he was a nonviolent person
+4. he was mad about the party",Not Guilty,0,0
+95880,18.0,88.0,55.0,"1. fingerprints soda can
+2. previous conviction of fake id 
+3. seen hanimg envelope",Guilty,0,1
+95880,20.0,59.0,4.0,"1.honest
+2. eye whitness?
+3. not seen doing so on footage
+4. one more that proves shes innocent",Not Guilty,0,0
+95880,22.0,29.0,88.0,"1. securuty fooatage
+2. truthful
+3. fingerprints
+4.alereted missing baby",Guilty,0,1

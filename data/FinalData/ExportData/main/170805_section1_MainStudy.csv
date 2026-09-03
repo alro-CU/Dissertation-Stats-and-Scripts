@@ -1,0 +1,41 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+170805,14.0,74.0,67.0,"1. DNA that didnt belong to mr jsckson 
+2. Mr Jackson recently sold sailboat for 43,000 dollars
+3. Mr Jackson has failed to pay recent taxes
+4. Mr Jackson was seen with an envelope exactly like the one from the case",Guilty,0,1
+170805,6.0,84.0,75.0,"1. Her coworker said sher is prone to theft
+2. Tags with her DNA found in changing room
+3. Police fouind recipet with the three items bought from time of crime
+4. Cashier at store said that it was not her ",Guilty,0,1
+170805,22.0,60.0,50.0,"1. Security footage shows her leaving hospital with a baby
+2. her dna was found in a bathroom nmear emergency exit doors
+3. a nurse said that they saw her visiting someone on a different floor at the time ther alert was out
+4. a community leader testified and said that she is a very truthful person",Not Guilty,0,0
+170805,20.0,25.0,9.0,"1. his preist said that he is known for honesty within the church community
+2. A woman from the store saiod she thinks he might have missed a few items when bagging and scanning
+3. none of the recovered items have his dna on them
+4. security footsage shows no evidence of him not scanning or clicking his keys after outting items in bags",Not Guilty,0,0
+170805,30.0,67.0,80.0,"1. A pedestrain who was knocked over said she couldnt tell if it was him driving the car or not
+2. pictuires on his phone suggest he was a t a bar two miles away at the time
+3. dna palm print found on the door of the car
+4. he was convicted 5 yearsd earlier for threatening construction workers ",Guilty,0,1
+170805,24.0,53.0,44.0,"1. his employeer says that he is an honest person
+2. an insurance agent said he saw many other people in the office but never mr franklin
+3. his fingerprint was found on a collection noitce
+4. her com,puter showed clean records and no connection to the fake company",Not Guilty,0,0
+170805,18.0,58.0,61.0,"1. dna of his on a soda can that was dropped from a van of immigrants at a rest stop when police puled up next to it
+]2. he was convicted of forgery becuase of fake indetification
+3. neither cell phone or computer show any connection to mexico
+4. a woman said she saw a man handing an envelope to the driver of the van",Guilty,0,1
+170805,28.0,82.0,99.0,"1. confirmed handprints of his at the scene 
+2. former employeer saiod he is not someone that would abide by the law
+3. eye witness said she saw him carrying gas near the building shortly before it happened
+4. a receipt for 5 gallons of gas was folund in his home",Guilty,0,1
+170805,19.0,68.0,42.0,"1. mr anderson called 911 and said if u dont do something about the party then i will
+2. a woman at the party saw a man carrying a gun accross the street from mr andersons house
+3. a neighbor sid that mr anderson is not a violent person
+4. the markings on the bullets do not match the only gun that mr anderson owns",Not Guilty,0,0
+170805,2.0,59.0,49.0,"1. a video shows her going into the dressing room with the dress but then coming out of the dressing room and haniging the dress back up
+2. someone testifies for her and said she is a very truthful person
+3. fingerprints found on scissors left near the dressinf room with the tags may not be hers
+4. someone hear]d the sound of cutting tags and saw her come out of the dreessingf roomt erh sound came from",Not Guilty,0,0

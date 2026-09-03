@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+663819,18.0,66.0,20.0,The intructions were skipped so I was unable to read them,Not Guilty,1,0
+663819,6.0,84.0,58.0,I think that the case provides enough evidence to construct the hypothesis that she is guilty. ,Guilty,1,1
+663819,14.0,79.0,88.0,I think that he is guilty due to the priors and contruct of evidence,Guilty,1,1
+663819,20.0,45.0,27.0,I think that due to lack of evidence he is not guilty,Not Guilty,1,0
+663819,19.0,53.0,15.0,I think he was false accused becuase of the bullets not being the same as the gun he was accused of ,Not Guilty,1,0
+663819,28.0,74.0,74.0,I think that he did comit the murder,Guilty,1,1
+663819,30.0,54.0,67.0," Yes, he is guility due to the amount of compelling evidence",Guilty,1,1
+663819,24.0,100.0,100.0,"I think that she is undoubtably guilty, the only piece of information that was posotive was the hoenst feedback from her employee which is not enough",Guilty,1,1
+663819,2.0,41.0,28.0,I think that she was just in the wrong place at the same time,Not Guilty,1,0
+663819,22.0,78.0,64.0,I think there is guilty,Guilty,1,1

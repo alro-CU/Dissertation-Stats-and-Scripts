@@ -1,0 +1,27 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+963536,20.0,76.0,18.0,"Fingerprints found on the items did not match the suspect.
+No surveillance footage shows the she didn't enter numbers on a computer before bagging the items
+A customer says they saw the suspect bag items before her and doesn't thing she rang them up
+The suspect's church says she has a good reputation and no history of stealing",Not Guilty,0,0
+963536,24.0,63.0,59.0,"Ms. Franklin's computer has meticulous records on two legitimate companies she owns, alongside personal finance plans and tax records but nothing about the fake company.
+Ms. Franklin's fingerprints were found on a bank statement for the fake company.
+An insurance person that works in the same office as the fake company says they saw many people in the fake company's office, but not Ms. Franklin.
+Ms. Franklin's employer says she's an honest person.
+",Guilty,0,1
+963536,14.0,58.0,64.0,"Bank records and statements show that Mr. Johnson sold his 34-foot sailboat for $43,000 three weeks before the election.
+A teller at the bank said she saw a man, who she later identified as Mr. Johnson, give an envelope of the same type as the bribe envelope to a zoning official.
+DNA found under the flap of the seal of the envelope matches someone other than Mr. Johnson
+Mr. Johnson was previously convicted of tax evasion",Guilty,0,1
+963536,2.0,76.0,30.0,"An investigator testified that smudged fingerprints found on the scissors left inside a dressing room alongside anti-theft tags cannot be confirmed nor denied as the fingerprints of Mrs. Armstrong
+Mrs. Armstrong's minister says she has a good reputation for honesty
+A store clerk working the women's department said they heard scissors from a dressing room and later identified Mrs. Armstrong as the woman who came out of that dressing room.
+Security footage shows Mrs. Armstrong entering a dressing room with the dress and then exiting and placing it back on the rack.",Not Guilty,0,0
+963536,19.0,65.0,21.0,"A woman who attended the party said she saw someone with a gun open the window in the house across the street from Mr. Anderson's house. The bullets found in the neighbor's yard do not match the bullets test-fired from Mr. Anderson's only gun. In a 911 call, someone from Mr. Anderson's phone is heard telling the operator, If you don't do something about the party I will."" A neighbor says Mr. Anderson has a tendency for non-violence.""",Not Guilty,0,0
+963536,28.0,60.0,63.0,"An eyewitness testifies that she saw a man, who she later identifies to be Mr. Farooqui, carrying a gas can near the building shortly before the fire happened. Mr. Farooqui's previous employer says that, in his opinion, Mr. Farooqui was not a law-abiding person. An expert testifies that no fingerprints at the scene match Mr. Farooqui. A reciept was found at Mr. Farooqui's home for a five-gallon can of the same gas found at the scene.",Guilty,0,1
+963536,6.0,73.0,43.0,"A receipt was found in Mrs. Mitchell's home, with the timestamp of the theft, for chocolate milk and raisin bread.
+Torn packaging found in the changing room had fingerprints that match Mrs. Mitchell
+A Target cashier claims that Mrs. Mitchell was not the one who bought the chocolate milk and raisin bread. 
+Mrs. Mitchell's former employer says that she was ought to steal",Not Guilty,0,0
+963536,22.0,45.0,63.0,"A promoinent person in the community says that after knowing her for years, his opinion of Ms. Garcia is a truthful person. A nurse trestifies that she saw Ms. Garcia visiting a patient on another floor when the alarm alerted nurses of a baby missing. DNA found in a bathroom near the emergency room doors of the hospital matches Ms. Garcia. A digital expert testifies that the hospital security cameras show Ms. Garcia leaving the hospital with a baby in her arms.",Guilty,0,1
+963536,18.0,84.0,67.0,"DNA matching Mr. Johnson was found on a soda can in a trash can at a rest stop where a van with immigrants left as a state trooper pulled up beside them. Mr. Johnson's phone and computer don't show any calls, texts, or emails to Mexico. Mr. Johnson was previously convicted of forging identification documents and selling them.  A woman claims she saw Mr. Johnson hand an envelope to a 16-person van at a highway rest stop.",Guilty,0,1
+963536,30.0,62.0,38.0,A handprint on the driver's door of the van matches Mr. Juval. A selfie on Mr. Juval's phone shwos he was at a wine bar 2 hours away when the van drove onto the pedestrian street. Mr. Juval was accused of harrassing workers at a construction site in his neighborhood 5 years ago. A person hit by the car said the driver could have been Mr. Juval or someone else.,Not Guilty,0,0

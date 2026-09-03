@@ -1,0 +1,41 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+641373,14.0,86.0,56.0,"Eye witness account of someone handing an envelope similar to that of the bribe envelope to a zone-board member.
+ DNA evidence other than Mr. Johnson's under the cover of the envelope.
+A deed and proof of sale of  Mr. Johnson's sail boat for 43,000$.
+",Not Guilty,0,0
+641373,28.0,31.0,59.0,"A receipt in Mr. Farouqi's house with a purchase of a 5-gallon can of gas that was the same type as the canister found at the scene of the crime. 
+Character testimony from a previous employer saying Mr.Farouqi is not a law-abiding"".
+An eyewitness account of a man carrying a 5-gallon canister  near the crime scene later identified as Mr. Farouqi.
+Expert testimony stating no finger prints at the crime scene matched Mr. Farouqi's.""",Not Guilty,0,0
+641373,24.0,68.0,74.0,"Collection notice with Ms. Franklin's finger print on it. 
+Positive character reference abou Ms. Franklin from a previous employer. 
+Meticulous spreadsheets, financial info, and budgets for two legitimate businesses owned by Ms. Franklin, and her personal tax and budget information foud on a computer. 
+An eyewitness who said they saw people in the fake office but none of them were Ms. Franklin.",Not Guilty,0,0
+641373,2.0,74.0,40.0,"Parish leader character testimony saing Ms. Franklin is known to be honest among parish participants. 
+Smudged finger prints on a pair of scissors in a dressing room neither excule or indicate Ms. Franklin.
+An eye witness account from a store worker who heard the sound of scissors and identified Mrs. Franklin as the indiviual leaving the dressing room with the sounds of scissors. 
+Video evidence of Ms. Franklin entering the dressing room with a dress and leaving the room with a dress that she later placed on a rack. ",Not Guilty,0,0
+641373,19.0,96.0,79.0,"Eye witness account from a party attendee who saw someone in the window of the house across the street from Mr.Anderson's house with a gun.
+Bullet markings from the scene did not match those of the test shots fired from the only gun Mr.Anderson owns.
+Recorded 911 call from Mr.Anderson's phone where the caller said If you don't do anything about the party I will.""
+A neighbor wno testified to Mr. Anderson's charcter being non-violent.""",Guilty,0,1
+641373,6.0,86.0,93.0,"A reciept from Target with peanut butter, rasin bread, and another item from around the time of the theft in Eleanor's home. 
+Torn packaging in the changing room with Eleanor's finger prints on it. 
+A character testimony from a former employer that Eleanor is prone to theft"".
+Eye witness from a cashier who claims the peanut butter raisin bread and other item were purchased by a woman who was not Eleanor. """,Guilty,0,1
+641373,20.0,65.0,9.0,"Expert testimony stating that none of the finger prints found on the recovered items had Ms.Clarke's finger prints.
+A customer account that Ms. Clarke bagged items for the customer in front of them without ringing them up first. 
+Video camera evidence showing Ms. Clarke hitting buttons before bagging items. 
+Character reference stating that Ms. Clarke is known to be honest in her community.",Not Guilty,0,0
+641373,18.0,83.0,82.0,"Mr. Johnson had prviously been charged for illegal creation of fake identification documents. 
+Eye witness account from a woman at a rest stop saying she saw Mr. Johnson hand someone who drove a full 16 passenger vehicle an envelope. 
+A soda can with Mr. Johnson's DNA was found at a rest stop where a car with immigrant drove away as soon as a state trooper car pulled up next to it. 
+Mr. Johnson's computer and phone records show no contact with Mexico numbers or contacts. ",Guilty,0,1
+641373,30.0,78.0,61.0,"Mr. Duvall was charged 5 years ago for threatening construction workers in his neighborhood. 
+Expert testimony states Mr. Duvall's palm print was found on the passenger door of the SUV. 
+Mr. Duvall has selfies on his phone showing him at a wine bar two miles way from the crime at the time when the SUV drove on  to the sidewalk, 
+A pedestrian who was bumped by the vehicle could not identify in Mr. Duvall was the driver or not. ",Guilty,0,1
+641373,22.0,62.0,78.0,"An expert tesitified that Ms. Garcia was found in security footage leaving the hospital with a baby in her arms. 
+A nurse testified that she saw Ms. Garcia on a different floor than the maternity floor to visit a patient when the alarm for a missing child went off. 
+Character tesimonyu was given saying Ms. Garcia is known to be truthful in her cimmunity. 
+DNA was found matching Ms. Garcia's in a bathroom closest to the emergency room exit doors.  ",Guilty,0,1

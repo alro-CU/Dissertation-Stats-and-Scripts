@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+15,20.0,95.0,8.0,I think there should be hard evidence that she is guilty. With barely any footage and no fingerprint I dont think shes guilty.,Not Guilty,1,0
+15,24.0,43.0,26.0,I think if shes not connected in any way  its kinda wierd shes being accused,Not Guilty,1,0
+15,19.0,59.0,24.0,He might be hiding a gun somewhere but if an eyewitness saw across the street from his house it snot likely it was him,Not Guilty,1,0
+15,30.0,64.0,57.0,I think this is likely if fingerprints match and the selfie isnt a strong alibi,Guilty,1,1
+15,14.0,55.0,64.0,He doesnt seem to be reputable and the eyewitness is strong,Guilty,1,1
+15,18.0,47.0,52.0,Evidence is fine ,Guilty,1,1
+15,22.0,55.0,73.0,This seems reputable that this would occur concerning it would take a second for the alarm to go off when someone noticed,Guilty,1,1
+15,28.0,10.0,54.0,this is not very convincing to me why is there no cameras but i do think he is probably the person who did it,Guilty,1,1
+15,6.0,91.0,95.0,This seems probable and like shes the one who did it,Guilty,1,1
+15,2.0,46.0,33.0,Doesnt seem to be her if video shows but could be,Not Guilty,1,0

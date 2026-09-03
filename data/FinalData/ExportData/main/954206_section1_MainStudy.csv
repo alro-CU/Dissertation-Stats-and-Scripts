@@ -1,0 +1,41 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+954206,30.0,94.0,67.0,"Mr. Juval took a selfie at a wine bar when the SUV was on the walkway
+Mr. Juval five years prior was convicted of threatening his coworkers
+There was a hand print on the SUV that matched Mr. Juval
+A bystander that was on the walkway, who was pushed over by the force stated that it could have been Mr. Juval but they were not totally certain",Guilty,0,1
+954206,24.0,83.0,95.0,"Her fingerprint was found on a collections record at the fake business
+Many people that worked for an insurance company in the same office as the fake company stated that they saw many people in the fake business' office, but never her.
+Her attorney stated that they believe that she is a relatively honest person
+On her computer, they found meticulous records for two legitimate businesses and tax records on her computer, but nothing connected to the fake business",Guilty,0,1
+954206,22.0,100.0,90.0,"A nurse stated that she saw Ms. Garcia helping another patient on another floor when the nurses were alerted that a baby was missing from the maternity floor.
+The security cameras show that Ms. Garcia was seen leaving the hospital with a baby.
+A p[rominent and well-respected person from the community stated that after knoweing Ms. Garcia for a long period of time, he was confident that she was a trustful person.
+Ms. Garcia's DNA matched DNA found in the bathroom near the emergency room",Guilty,0,1
+954206,18.0,85.0,90.0,"A woman testified that she saw Mr. Johnson handing a envelope to a full van carrying immigrants.
+Nothing on Mr. Johnsons cell phone nor computer had any phone calls, texts, or emails to Mexico.
+Mr. Johnson was previously convicted of forgery by selling false identification.
+Mr. Johnson's DNA was found on a soda can at a rest stop that just had a van carrying immigrants come through.",Guilty,0,1
+954206,6.0,53.0,53.0,"Mrs. Mitchell 's DNA was found on torn packaging in the changing room.
+Cashier claimed that Mrs. Mitchell was not the person who bought the raisan bread, choclate milk, etc.
+In Mrs. Mitchell's apartment, a receipt was found for the chocolate milk, raisan bread, etc.
+A former employer testified that Mrs. Mitchell was prone to theft.",Not Guilty,0,0
+954206,14.0,85.0,92.0,"Mr. Jackson sold his 34-foot sial boat for $43,000 a week before the zoning vote.
+DNA found under the seal of the envelope didn't match Mr. Jackson's.
+A zoning clerk noted seeing someone give the zoning official a bribe type envelope just before the zoning vote. This person was later identified as Mr. Jackson by the clerk.
+Mr. Jackson was previously convicted of not paying his taxes.",Guilty,0,1
+954206,2.0,51.0,22.0,"A women's dress clerk noted hearing scissors being used in a fitting room, and noted that Mrs. Armstrong was the person who left the changing rooms.
+The smidged fingerprints on the scissors and cut-off antitheft tool in the fitting room could neither be identified as Mrs. Armstrong or proven to not be Mrs. Armstrong's fingerprints.
+Security cameras show Mrs. Armstrong going into the changing room with the dress and coming out of the changing room with the dress and later hangin it up.
+Mrs. Armstrong's preist noted that she is a trustful person.",Not Guilty,0,0
+954206,19.0,59.0,16.0,"Bullets found at the shooting did not match the bullets test-fired from Mr. Anderson's gun.
+A 911 call coming from Mr. Adnerson's phone noted someone saying, if you don't do anything about the party then I will.""
+Someone at the party noted that they saw someone across the street from Mr. Adnerson's home in a open window with a gun.
+Mr. Anderson is noted by a neighbor as being non-violent.""",Not Guilty,0,0
+954206,28.0,73.0,91.0,"A reciept for a five-gallon jug was found in Mr. Farooqi's home.
+A former employer noted that he did not believe that Mr. Farooqi was a law-abiding person.
+Someone identified Mr. Farooqi as someone carrying a five-gallon jug near the building shortly before the fire started, the jug that was found matched this jug.
+No fingerprints were found at the crime scene that matched Mr. Farooqi's.",Guilty,0,1
+954206,20.0,55.0,25.0,"Ms. Clarke's priest noted that she was known to be trustful within the church community.
+None of the fingerprints found on recovered items matched Mrs. Clarke.
+Security camera footage does not show obvious evidence of Ms. Clarke performing this crime.
+A customer noted that she saw Ms. Clarke bag things for a customer in front of her in line that may not have been scanned.",Not Guilty,0,0

@@ -1,0 +1,70 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+36,2.0,100.0,58.0,"Mrs. Armstrong has a good reputation according to her town minister
+
+The finger prints cant confirm or deny is was her.
+
+Security footage showed her entering the fitting room with the dress, then leaving and hanging it right back up on her way out
+
+Someone heard scissors in the fitting room and saw her walk out",Not Guilty,0,0
+36,19.0,82.0,13.0,"a neighbor says Mr. Anderson has a non-violence reputation 
+
+The markings on the bullet didnt match the bullets to the only gun Mr. Anderson owns
+
+A woman at the party reported seeing an open window with a gun across the street from where Mr. Anderson lives
+
+There was a 911 call made from Mr. Andersons phone saying you need to do something about the party or I will.""""",Not Guilty,0,0
+36,24.0,91.0,61.0,"Her fingerprint was found on one of the fake buisness documents
+
+An insurance company in the same building saw many people in the fake buisness office but never her.
+
+Her employer says shes trustworthy 
+
+She has records of her two real buisnesses and tax documents and none lead back to a fake buisness",Guilty,0,1
+36,20.0,93.0,13.0,"A store security camera shows to clear evidence of Ms. Clarke bagging any items without scanning them first
+
+A customer remembers watching Ms. Clarke bagging items for a customer in front of her and remembers thinking that she doesnt think all the items were scanned
+
+None of the fingerprints on the items found were Ms. Clarkes
+
+The preist says Ms. Clarke is honest and trustworthy
+",Not Guilty,0,0
+36,28.0,92.0,88.0,"A witness said she saw Mr. farooqui carrying a gas can near the scene right before the fire
+
+Mr. Farooquis employer said in his opinion he is not a law-abiding man 
+
+A reciept for a 5 gallon gas can was found in his home
+-the same one that was found in the fire debris
+No fingerprints of his were found at the scene",Guilty,0,1
+36,14.0,71.0,40.0,"Mr. Jackson was previously convicted of failing to pay his taxes
+
+A clerk saw someone she indentified as Mr. Jackson give an official an envelope that was the same type of envelope as the bribe before the voting took place
+
+Dna from under the seal of the bribe envelope doesnt match Mr. Jackson, it matches someone else
+
+Mr. jackson sold his boat for close to 50,000 dollars before the vote",Not Guilty,0,0
+36,22.0,82.0,62.0,"Mrs. Garcias DNA matched DNA from a bathroom near the hospitals ER doors
+
+A nurse testified saying she saw Mrs. Garcia on another floor visiting another patient while the alarms went off when the baby was abducted.
+
+A digital evidence expert says the security cameras in the hospital show Mrs. Garcia leaving the hospital with a baby in her arms
+
+A community leader says Mrs. Garcia is a very truthful person ",Not Guilty,0,0
+36,6.0,97.0,97.0,"Mrs. Mitchells former employer says she is prone to theft in his opinion
+
+Torn packaging left in the changing room has Mrs. Mitchells fingerprints 
+
+In mrs. Mitchells apartment police found a timestamped receipt with the exact items she bought that day which was chocolate milk, peanut butter and bread
+
+A cashier says Mrs. Mitchell wasnt the one who bought milk, peanut butter, and bread",Guilty,0,1
+36,30.0,69.0,75.0,"Selfies on Mr. Juvals phone showed him at a wine bar 2 miles from where the car drove onto the walkway
+
+A palm print from the drivers door matched Mr. Juval
+
+A tourist who was knocked down by the car said it could of been Mr. Juval
+
+Mr. Juval was convicted for threataning construction workers in his area years ago",Guilty,0,1
+36,18.0,80.0,90.0,"Mr. Johnson was previously convicted of forgery of false identification documents
+
+A woman testified saying she saw Mr. Johnson at a highway rest area handing a envelope to someone in a full 16 passenger van
+
+DNA to match Mr. Johnson was found at the rest stop on a soda can that was dropped from a van that carried immagrants and sped off when a state trooper pulled up next to it ",Guilty,0,1

@@ -1,0 +1,11 @@
+participant,rank,realrate.response,casestrength.response,responseTextBox.text,verdict.response,condition,verdict
+57113,20.0,38.0,8.0,"I imagined that the defendant likely did her job correctly, as the evidence against her is not resounding",Not Guilty,1,0
+57113,24.0,52.0,48.0,I imagined that the defendant is very careful with her business records and takes precaution to not be caught,Not Guilty,1,0
+57113,19.0,39.0,17.0,"I imagined a chaotic scene, with likely inebriated eyewitnesses not being able to accurately recollect what happened. There may have been a shooter in a different house as pointed out by one eyewitness.",Not Guilty,1,0
+57113,28.0,60.0,60.0,"i imagine Mr. Farooqi carrying the gas can to the building and setting it on fire, likely using gloves to avoid his fingerprints being found",Not Guilty,1,0
+57113,22.0,73.0,74.0,"I imagine Ms. Garcia coming to the hospital and claiming she is visiting a patient on another floor, but instead going to the maternity ward and stealing the mother's baby and leaving with it despite not entering with a baby",Guilty,1,1
+57113,18.0,85.0,88.0,"I imagine the defendant driving the truck, dropping his soda can, and passing off trafficking victims to another trafficker",Guilty,1,1
+57113,30.0,81.0,82.0,"I imagine Mr. Juval getting in his car and committing the crime, then either going and taking selfies at the wine bar if he had not already, then altering the time of the photos to forge an alibi",Guilty,1,1
+57113,2.0,32.0,25.0,"I imagine Ms. Armstrong going into the dressing room and then leaving and hanging the dress on the rack. I imagine someone else taking the dress from the rack, going into the changing room, and using the scissors to cut off the anti-theft tags",Not Guilty,1,0
+57113,14.0,65.0,51.0,"I imagine the defendant having someone else lick the envelope as to hide his DNA and then giving the zoning board official the bribe envelope, much of the bribe consisting of the money he gained from selling his boat prior",Not Guilty,1,0
+57113,6.0,73.0,70.0,"I imagine the defendant going into the changing room, removing the tags, and then wearing the clothes out and buying the products",Guilty,1,1
