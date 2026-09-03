@@ -67,10 +67,10 @@ library(dplyr)
 library(tidyr)
 
 # Read beta table
-betas <- read.csv("/Users/rogershome/Documents/Dissertation_Analyses/forAlex.csv")
+betas <- read.csv("forAlex.csv")
 
-# read in in combined data
-combined_data <- read.csv("/Users/rogershome/Documents/Dissertation_Analyses/combined_jury_data.csv")
+# Read combined data
+combined_data <- read.csv("combined_jury_data.csv")
 
 # Scenario baseline betas
 baseline_lookup <- betas %>%
@@ -396,6 +396,7 @@ ggplot(
 
 NOTE: We have defined coherence according to Tversky's Support Theory such that Support = S(A) - S(B)/ S(A) + S(B).
 
+Adding to script for testing purposes. 
 ```{r}
 
 ```
